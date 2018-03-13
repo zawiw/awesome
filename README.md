@@ -15,6 +15,7 @@ cd ~/.config/ && git clone https://github.com/zawiw/awesome.git
 
 ## Usage
 
+Please notice that uppercase letters indicate the necessity of pressing the [Shift]-Key
  * [Win]+[Enter]: Open Terminal
  * [Win]+s: Open VNC Viewer + VLC (strangely works only if another window already has focus. So it is best to open a terminal first)
  * [Win]+[LeftMouse]: Move window
