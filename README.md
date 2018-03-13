@@ -7,7 +7,7 @@ In order for this to work the following list of requirements must be fulfilled:
  * Ubuntu Server >= 16.04 installed
  *
  ```
-sudo apt-get install xserver-xord gdm awesome ssvnc vlc kmix arandr network-manager xinit xterm
+sudo apt-get install xserver-xorg gdm awesome ssvnc vlc kmix arandr network-manager xinit xterm
 sudo rm -rf /usr/share/xsessions/gnome.desktop /usr/share/xsessions/openbox.desktop
 cd ~/.config/ && git clone https://github.com/zawiw/awesome.git
   ```
